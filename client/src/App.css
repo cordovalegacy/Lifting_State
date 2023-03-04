@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background:linear-gradient(60deg, silver, lightblue, skyblue, silver);
+}
+
+.form{
+  display: flex;
+  flex-direction: column;
+}
+
